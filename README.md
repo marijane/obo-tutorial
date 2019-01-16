@@ -20,6 +20,13 @@ We use a single running example to keep things concrete: a spreadsheet of data a
 NOTE: This is still a work in progress. Not all of the sections are complete.
 
 
+## Other Resources
+
+Here are some links to other resources for learning about OBO:
+
+- [GO Editors Guide](http://go-ontology.readthedocs.io)
+
+
 ## Requirements
 
 To read through the tutorial and look at most of the files, all you need is a web browser. To view the OWL files you should use the desktop version of [Protégé](http://protege.stanford.edu).
@@ -49,7 +56,7 @@ Corrections, improvements, suggestions, bug reports, etc. are all very much appr
 
 ## License
 
-Copyright © 2015, James A. Overton
+Copyright © 2017, James A. Overton
 
 Distributed under the CC-by 3.0 License: <https://creativecommons.org/licenses/by/3.0/>
 
